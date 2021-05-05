@@ -1,7 +1,7 @@
 url: https://cloud.mgoeppl.uk
-status: up
-code: 200
-responseTime: 960
-lastUpdated: 2021-05-05T09:48:42.573Z
+status: down
+code: 502
+responseTime: 3933
+lastUpdated: 2021-05-05T21:29:04.292Z
 startTime: Mon Mar 08 2021 13:57:08 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
